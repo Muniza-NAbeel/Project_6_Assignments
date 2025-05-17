@@ -1,5 +1,7 @@
 🐍 Python OOP Assignments 🚀
+
 📚 Table of Contents
+
 1. Using self 👤
 Create a Student class with name and marks attributes. Use self to initialize them via a constructor. Add a display() method to print student details.
 
